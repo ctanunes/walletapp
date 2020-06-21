@@ -9,10 +9,11 @@ So far this app was only tested in Android.
 ## What is this app?
 
 This app is a simple wallet app were you can keep a record of your expenses and incomes.
-<img src="https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195144.png" width="250"/>
-![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195351.png | width=100)
-![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195426.png | width=100)
-![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195448.png | width=100)
+
+<img src="https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195144.png" width="300"/>
+<img src="https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195351.png" width="300"/>
+<img src="https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195426.png" width="300"/>
+<img src="https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195448.png" width="300"/>
 
 ## What will you be able to do with this app?
 
