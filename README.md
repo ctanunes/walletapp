@@ -9,6 +9,10 @@ So far this app was only tested in Android.
 ## What is this app?
 
 This app is a simple wallet app were you can keep a record of your expenses and incomes.
+![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195144.png)
+![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195351.png)
+![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195426.png)
+![alt text](https://github.com/ctanunes/walletapp/blob/master/images/device-2020-06-21-195448.png)
 
 ## What will you be able to do with this app?
 
@@ -26,6 +30,7 @@ You will be able to:
 Please look for wallet_app_wireframe.png for a look at the planed wireframe for this app.
 Final app will not look like the wireframe, this is only a guideline for development.
 And click through the wireframe using this link [Link for prototype](https://xd.adobe.com/view/4ce26be6-900b-421c-439f-ff58f68cc95d-3ad3/)
+![alt text](https://github.com/ctanunes/walletapp/blob/master/images/wallet_app_wireframe.png)
 
 ## TODO
 ## Done
