@@ -47,7 +47,7 @@ And click through the wireframe using this link [Link for prototype](https://xd.
 
 # Details in Portuguese
 ## Tecnologias e conceitos abordados neste projecto
-Este projecto foi o meu projecto a utilizador o Flutter, então for necessário estudar a liguagem que o Flutter usa: Dart.
+Este projecto foi o meu projecto primeiro a utilizador o Flutter, por essa razão foi necessário estudar a liguagem que o Flutter usa: Dart.
 Dart é muito parecido que Javascript e Typescript, que são linguagens de que já tinha alguma familiaridade. 
 
 A aplicação está estruturada em components, models, screens and services.
@@ -62,7 +62,7 @@ Os Screens ligam funcionalidades com componentes do layout.
 Os Services são a base de dados SQLite, com três tabelas e métodos para aceder aos dados da base de dados.
 
 ## Objectivos atingidos
-O maior objectivo atingido for completar em geral todos os componentes que tinha desenhado na wireframe e não exister nenhum bug que parte a aplicação.
+O maior objectivo atingido for completar em geral todos os componentes que tinha desenhado na wireframe e não existe nenhum bug cause um erro fatal na aplicação .
 Era muito importante para mim conseguir ter a aplicação funcional que estivesse aptar a ser usada.
 
 ## Obstáculos encontrados
@@ -73,6 +73,6 @@ Estive presa durante bastante tempo em algumas funcionalidades como os gráficos
 Eventualmente consegui resolver, e estou muito contente com o resultado.
 
 ## Considerações finais
-Estou bastante contente com o resultado final da aplicação. Foi capaz de aprofundar muitos conhecimentos durante a realização do projecto, que planeio reutilizar no futuro.
+Estou bastante contente com o resultado final da aplicação. Fui capaz de aprofundar muitos conhecimentos durante a realização do projecto, que planeio reutilizar no futuro.
 Em retrospectiva em relação à aplicação gostaria de melhorar no futuro um pouco o grafismo, talvez adicionar um tuturial ao iniciar a app, mudar a tipografia e cores, adicionar mais detalhe aos gráficos e melhorar as interfaces.
 
